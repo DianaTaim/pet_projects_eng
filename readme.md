@@ -18,7 +18,7 @@ another) and merging them into a single dataset for further processing.
 
 Answer: To my mind we could put in all names of the files into list like:
 filenames = [‘data_000000000001.csv’, ‘data_000000000002.csv’ ... ]
-Then we can use  “for”, also inside the same looping we can use function “concat’ for
+Then we can use  “for”, after it we can use function “concat’ for
 merging all dataset in one, if they are equal
 for x in filenames():
 df = pd.read_csv(x)
