@@ -1,1 +1,3 @@
-Here some of my projects in English
+Project name			|			Description | Tools | Conclusion
+:---------------------------------------|:------------------------------:|:------------------------------:|:------------------------------:|
+[Predicting Survival on the Titanic: Data Analysis & ML Modeling](https://github.com/DianaTaim/ml_projects/blob/main/Gym%20Churn%20Project.ipynb)| A machine learning project that analyzes passenger data to predict survival on the Titanic, identifying key factors like class, gender, and age that determined who lived or died   |Python, Pandas, Sklearn, Seaborn, Matplotlib | The project covers the complete data science pipeline for the Titanic dataset - from data cleaning and feature engineering to building and evaluating multiple classification models
